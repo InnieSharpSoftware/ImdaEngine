@@ -1,0 +1,8 @@
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\obj\Debug\ImdaEngine.csprojResolveAssemblyReference.cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\obj\Debug\ImdaEngine.MainForm.resources
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\obj\Debug\ImdaEngine.csproj.GenerateResource.Cache
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\bin\Debug\ImdaEngine.exe.config
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\bin\Debug\ImdaEngine.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\bin\Debug\ImdaEngine.pdb
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\obj\Debug\ImdaEngine.exe
+C:\Users\inniesharp\Documents\SharpDevelop Projects\ImdaEngine\ImdaEngine\obj\Debug\ImdaEngine.pdb
